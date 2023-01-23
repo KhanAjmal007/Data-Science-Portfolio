@@ -95,7 +95,7 @@ All above projects can be tailored to specific industries and business areas. Ad
 
 41.    Customer lifetime value prediction: Develop a model that predicts the lifetime value of a customer based on their purchase history, demographics, and other relevant information.
 
-# Here are a few suggestions for data science projects that could be included in a portfolio to showcase to clients for an investment or stock advisor company:
+# Here are a few suggestions for data science projects for an investment or stock advisor company:
 
 42.    Stock price prediction: Develop a model that uses historical stock market data to predict future stock prices. This can include data on stock prices, trading volume, and news articles.
 
