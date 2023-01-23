@@ -75,7 +75,7 @@ All above projects can be tailored to specific industries and business areas. Ad
 
 32.    Medical supply chain optimization: Develop a model that optimizes the supply chain for medical products, such as predicting demand for specific products and identifying potential supply chain disruptions.
 
-# Here is a list of data science projects that can be included in a personal portfolio to showcase to clients and for job interviews to impress clients and hiring managers specifically for Market Place:
+# Here is a list of data science projects specifically for Market Place:
 
 33.    Price optimization: Develop a model that optimizes prices for products or services on the marketplace based on supply, demand, and competition.
 
