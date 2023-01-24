@@ -155,11 +155,11 @@ These are just a few examples, and the specific data sets and techniques used wi
 
 # Here are a few suggestions for data science projects for telecommunication ISP company
 
-68.        Network optimization: Develop a model that optimizes the layout and configuration of a telecommunications network based on factors such as network usage, traffic patterns, and network capacity.
+68.    Network optimization: Develop a model that optimizes the layout and configuration of a telecommunications network based on factors such as network usage, traffic patterns, and network capacity.
 
-69.        Customer churn prediction: Develop a model that predicts which customers are likely to cancel their service and implement strategies to retain them.
+69.    Customer churn prediction: Develop a model that predicts which customers are likely to cancel their service and implement strategies to retain them.
 
-70.        Network anomaly detection: Develop a model that uses machine learning algorithms to detect abnormal patterns in network data, such as abnormal traffic patterns or unusual device behavior.
+70.    Network anomaly detection: Develop a model that uses machine learning algorithms to detect abnormal patterns in network data, such as abnormal traffic patterns or unusual device behavior.
 
 71.        Service quality prediction: Develop a model that predicts the quality of service for a telecommunications network based on factors such as network usage, traffic patterns, and network capacity.
 
